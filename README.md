@@ -1,3 +1,4 @@
+![Screenshot 2025-07-06 181008](https://github.com/user-attachments/assets/8dbcc13e-6550-4eb6-8df9-d939e50ba7f8)
 # ✈ Flight Fare Price Prediction
 
 This project aims to predict the flight ticket prices based on various input features such as airline, source, destination, duration, and more. The project focuses on exploratory data analysis (EDA) and building regression models for accurate price prediction.

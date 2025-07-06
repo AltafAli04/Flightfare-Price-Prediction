@@ -1,3 +1,4 @@
+![Screenshot 2025-07-06 181047](https://github.com/user-attachments/assets/181bd859-fb73-4d5e-b695-12f208b6d928)
 ![Screenshot 2025-07-06 181008](https://github.com/user-attachments/assets/8dbcc13e-6550-4eb6-8df9-d939e50ba7f8)
 # ✈ Flight Fare Price Prediction
 
